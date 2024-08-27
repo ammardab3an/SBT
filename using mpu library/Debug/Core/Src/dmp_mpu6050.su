@@ -1,0 +1,9 @@
+../Core/Src/dmp_mpu6050.c:83:5:Sensors_I2C_WriteRegister	48	static
+../Core/Src/dmp_mpu6050.c:120:5:Sensors_I2C_ReadRegister	48	static
+../Core/Src/dmp_mpu6050.c:156:5:get_tick_count	16	static
+../Core/Src/dmp_mpu6050.c:161:5:fputcc	16	static
+../Core/Src/dmp_mpu6050.c:166:19:run_self_test	88	static
+../Core/Src/dmp_mpu6050.c:214:6:gyro_data_ready_cb	8	static
+../Core/Src/dmp_mpu6050.c:219:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/dmp_mpu6050.c:240:5:MPU6050_Init	32	static
+../Core/Src/dmp_mpu6050.c:419:5:MPU6050_Go	96	static

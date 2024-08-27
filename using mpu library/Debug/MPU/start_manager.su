@@ -1,0 +1,4 @@
+../MPU/start_manager.c:39:13:inv_init_start_manager	8	static
+../MPU/start_manager.c:49:13:inv_unregister_mpl_start_notification	24	static
+../MPU/start_manager.c:73:13:inv_register_mpl_start_notification	16	static
+../MPU/start_manager.c:87:13:inv_execute_mpl_start_notification	24	static

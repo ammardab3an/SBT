@@ -1,0 +1,13 @@
+../MPU/eMPL_outputs.c:47:5:inv_get_sensor_type_accel	2
+../MPU/eMPL_outputs.c:64:5:inv_get_sensor_type_gyro	2
+../MPU/eMPL_outputs.c:81:5:inv_get_sensor_type_compass	2
+../MPU/eMPL_outputs.c:99:5:inv_get_sensor_type_quat	1
+../MPU/eMPL_outputs.c:115:5:inv_get_sensor_type_heading	2
+../MPU/eMPL_outputs.c:152:5:inv_get_sensor_type_euler	5
+../MPU/eMPL_outputs.c:226:5:inv_get_sensor_type_rot_mat	1
+../MPU/eMPL_outputs.c:234:20:inv_generate_eMPL_outputs	12
+../MPU/eMPL_outputs.c:286:20:inv_start_eMPL_outputs	1
+../MPU/eMPL_outputs.c:292:20:inv_stop_eMPL_outputs	1
+../MPU/eMPL_outputs.c:297:20:inv_init_eMPL_outputs	1
+../MPU/eMPL_outputs.c:306:13:inv_enable_eMPL_outputs	2
+../MPU/eMPL_outputs.c:318:13:inv_disable_eMPL_outputs	1

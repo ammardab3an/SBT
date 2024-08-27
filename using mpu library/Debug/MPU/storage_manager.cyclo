@@ -1,0 +1,6 @@
+../MPU/storage_manager.c:50:6:inv_init_storage_manager	1
+../MPU/storage_manager.c:66:13:inv_register_load_store	4
+../MPU/storage_manager.c:95:13:inv_get_mpl_state_size	1
+../MPU/storage_manager.c:105:12:inv_find_entry	3
+../MPU/storage_manager.c:122:13:inv_load_mpl_states	11
+../MPU/storage_manager.c:172:13:inv_save_mpl_states	3

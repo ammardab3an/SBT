@@ -1,0 +1,3 @@
+../MPU/log_stm32.c:56:5:_MLPrintLog	8
+../MPU/log_stm32.c:107:6:eMPL_send_quat	3
+../MPU/log_stm32.c:140:6:eMPL_send_data	7
